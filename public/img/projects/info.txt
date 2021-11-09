@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: amita-regular
+font link: https://fonts.google.com/specimen/Amita
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+Slogan Font: Snickles.ttf
+
+{"bg":"#F8EEF1","icon-gradient-0":"#C56486","icon-gradient-1":"#F7FBF4","font":"#3C212B","slogan":"#50353f"}
+      

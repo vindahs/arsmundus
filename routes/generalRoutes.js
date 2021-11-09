@@ -26,6 +26,32 @@ router.get('/gallery', function(req, res, next) {
     res.render('gallery', { title: 'Express' });
 });
 
+
+router.get('/gallery2', function(req, res, next) {
+    res.render('gallery2', { title: 'Express' });
+});
+
+router.get('/gallery3', function(req, res, next) {
+    res.render('gallery3', { title: 'Express' });
+});
+
+router.get('/gallery4', function(req, res, next) {
+    res.render('gallery4', { title: 'Express' });
+});
+
+router.get('/gallery5', function(req, res, next) {
+    res.render('gallery5', { title: 'Express' });
+});
+
+router.get('/gallery6', function(req, res, next) {
+    res.render('gallery6', { title: 'Express' });
+});
+
+router.get('/ovgallery', function(req, res, next) {
+    res.render('ovgallery', { title: 'Express' });
+});
+
+
 router.get('/blog', function(req, res, next) {
     res.render('blog', { title: 'Express' });
 });
