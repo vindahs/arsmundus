@@ -25,35 +25,27 @@ router.get('/purpletana', function(req, res, next) {
     res.render('purpletana', { title: 'Express' });
 });
 
-router.get('/hamu', function(req, res, next) {
-    res.render('hamu', { title: 'Express' });
+
+router.get('/nft', function(req, res, next) {
+    res.render('nft', { title: 'Express' });
 });
 
-router.get('/myessence', function(req, res, next) {
-    res.render('myessence', { title: 'Express' });
+router.get('/nft2', function(req, res, next) {
+    res.render('nft2', { title: 'Express' });
 });
 
-
-router.get('/hamu', function(req, res, next) {
-    res.render('hamu', { title: 'Express' });
-})
-
-
-router.get('/saviesa', function(req, res, next) {
-    res.render('saviesa', { title: 'Express' });
-});
 
 router.get('/ovgallery', function(req, res, next) {
     res.render('ovgallery', { title: 'Express' });
 });
 
-router.get('/burna', function(req, res, next) {
-    res.render('burna', { title: 'Express' });
-});
-
 
 router.get('/contact', function(req, res, next) {
     res.render('contact', { title: 'Express' });
+});
+
+router.get('/africa', function(req, res, next) {
+    res.render('africa', { title: 'Express' });
 });
 
 
